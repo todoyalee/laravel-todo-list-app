@@ -8,14 +8,14 @@ Task Catalyst is a todo list web application created in Laravel 8 to help people
 
 ## Features Implemented
 
-* General users can register/login
-* Both admin and general users can create, view, edit, delete tasks
-* Both admin and general users can mark tasks as completed 
+* Standard users can register/login
+* Both admin and standard users can create, view, edit, delete tasks
+* Both admin and standard users can mark tasks as completed 
 * Admin user can view all the users
 * Admin user can change/assign roles to users
 * Admin user can delete users 
-* Both general and admin users can update their account information
-* Both general and admin users can change their password 
+* Both standard and admin users can update their account information
+* Both standard and admin users can change their password 
 
 ## Cool Features to Add
 
