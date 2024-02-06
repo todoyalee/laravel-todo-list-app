@@ -5,7 +5,7 @@
     </p>
 
     <div class="flex justify-center gap-10 py-8">
-        <a class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-150" href="">
+        <a class="transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-150" href="https://www.linkedin.com/in/dali-belkouri-795896225/">
             <x-facebook-logo/>
         </a>
 

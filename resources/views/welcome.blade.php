@@ -20,9 +20,9 @@
             <div class="px-8 py-3 text-center md:flex justify-between items-center bg-gray-700  text-gray-300">
                 <h1 class="md:mb-0 font-bold uppercase text-xl">Task Catalyst</h1>
                 <ul class="sm:mb-4 md:mb-0 md:flex gap-4">
-                    <li class="cursor-pointer hover:underline">+250788877777</li>
+                    <li class="cursor-pointer hover:underline">58294153</li>
                     <li class="md:border-2 border-red-500">  </li>
-                    <li class="cursor-pointer hover:underline">alain@taskcatalyst.com</li>
+                    <li class="cursor-pointer hover:underline">m.a.belkouri@gmail.com</li>
                 </ul>
                 @if (Route::has('login'))
                     <ul class="md:flex gap-4">
@@ -68,7 +68,7 @@
                             </form>
                         </div>
                         <div class="text-gray-700">
-                            <p>Failing to plan is planning to fail. - Alan Lakein</p>
+                            <p>Failing to plan is planning to fail. - dali belkouri</p>
                         </div>
                     </div>
                 </div>
